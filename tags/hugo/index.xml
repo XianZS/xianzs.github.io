@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on 我的博客</title><link>https://xianzs.github.io/tags/hugo/</link><description>Recent content in Hugo on 我的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://xianzs.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>你好 Stack！我的第一篇博客</title><link>https://xianzs.github.io/p/hello-stack/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://xianzs.github.io/p/hello-stack/</guid><description>&lt;img src="https://xianzs.github.io/p/hello-stack/cover.jpg" alt="Featured image of post 你好 Stack！我的第一篇博客" /&gt;&lt;h2 id="-开始写博客"&gt;🚀 开始写博客
+&lt;/h2&gt;&lt;p&gt;Stack 主题的&lt;strong&gt;卡片式布局&lt;/strong&gt;让每篇文章都像一张精美的卡片。&lt;/p&gt;
+&lt;h3 id="代码高亮"&gt;代码高亮
+&lt;/h3&gt;&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;hello&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;Hello, Hugo Stack!&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id="表格"&gt;表格
+&lt;/h3&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;功能&lt;/th&gt;
+					&lt;th&gt;说明&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;暗色模式&lt;/td&gt;
+					&lt;td&gt;自动跟随系统&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;搜索&lt;/td&gt;
+					&lt;td&gt;Fuse.js 全文搜索&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;图片&lt;/td&gt;
+					&lt;td&gt;PhotoSwipe 灯箱&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="数学公式"&gt;数学公式
+&lt;/h3&gt;&lt;p&gt;行内公式 $E = mc^2$ 和块级公式：&lt;/p&gt;
+$$
+\int_{a}^{b} f(x)\,dx
+$$&lt;h3 id="摘要分隔"&gt;摘要分隔
+&lt;/h3&gt;&lt;p&gt;`&lt;/p&gt;
+&lt;p&gt;` 以上的内容显示在首页卡片中作为摘要，点击&amp;quot;阅读全文&amp;quot;后能看到以下内容。&lt;/p&gt;
+
+ &lt;blockquote&gt;
+ &lt;p&gt;千里之行，始于足下。开始记录你的想法吧！&lt;/p&gt;
+
+ &lt;/blockquote&gt;</description></item></channel></rss>
